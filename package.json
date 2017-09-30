@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "The Redbone Workbench",
   "author": "Constantin Tsukanov <c@indotech.ru>",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
